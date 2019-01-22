@@ -1,0 +1,6 @@
+{
+    "hostname": "VOD Box",
+    "host": "localhost",
+    "port": 4123,
+    "res": "~/Documents/Data"
+}
